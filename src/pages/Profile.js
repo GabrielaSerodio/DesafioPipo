@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import Button from '../components/Button.js'
+import Button from '../components/Button/index.js'
 import Input from '../components/Input.js/index.js'
 
 

@@ -10,3 +10,9 @@
     line-height: 28px;
     color: #FFFFFF;
 }
+
+.div-btn-home {
+    margin-top: 6%;
+    display: flex;
+    justify-content: space-around;
+}

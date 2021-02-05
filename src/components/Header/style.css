@@ -1,5 +1,15 @@
-header{
+header {
     background-color: #F9F9F9;
-    height: 100%;
+    display: flex;
+    justify-content: end;
 }
 
+img {
+    width: 30%;
+}
+
+.div-footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 6%;
+}
